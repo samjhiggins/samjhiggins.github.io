@@ -5,7 +5,7 @@ body {
 }
   .content { 
     
-    background: linear-gradient(to bottom, #ff0066, #990099, #f06, #990099, #ff0066, #990099);
+    background: linear-gradient(to bottom,  #990099, #ff0066, #F67728, #ff0066,#ff0066);
   }
   .title {
     font-size: 280px;
@@ -21,7 +21,7 @@ body {
     margin: 0;
     display: block;
     text-transform: uppercase;
-    color: rgba(0,0,0,0.3);
+    color: rgba(0,0,0,0.4);
     text-shadow: none;
   }
 section { 
